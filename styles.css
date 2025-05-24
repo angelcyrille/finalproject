@@ -174,11 +174,11 @@ ul li a:hover {
   background-color: var(--primary-color-dark);
 }
 
-.portfolio {
+.project-card {
   color: var(--primary-color);
 }
 
-.portfolio:hover {
+.project-card:hover {
   background-color: var(--primary-color-dark);
   color: #ffffff;
 }
